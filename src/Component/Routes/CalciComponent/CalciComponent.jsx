@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './CalciComponent.css';
 
 function Calculator() {
   const [result, setResult] = useState(0);

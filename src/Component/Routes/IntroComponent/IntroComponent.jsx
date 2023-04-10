@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './IntroComponent.css';
+
 
 export class IntroComponent extends Component {
   render() {
@@ -53,14 +53,14 @@ export class IntroComponent extends Component {
     </div>
     <hr />
     <div class="row">
-      <div class="col-md-8">
+      {/* <div class="col-md-8">
         <h2>Projects</h2>
         <ul>
           <li>Project 1:FLAPPY BIRD GAME USING UNITY</li>
           <li>Project 2: 6th SENSE ROBOT USING AURDINO INO</li>
           <li>Project 3: WIKIPEDIA BOT USING THREAD IN PYTHON LANG</li>
         </ul>
-      </div>
+      </div> */}
     </div>
   </div>
     ) 
